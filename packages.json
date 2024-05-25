@@ -1,0 +1,10 @@
+{
+    "name": "root_exploit",
+    "version": "0.1.0",
+    "srcDir": "src",
+    "bin": ["exploit"],
+    "author": "Your Name",
+    "description": "A package to exploit something",
+    "license": "MIT"
+}
+
